@@ -1,8 +1,8 @@
 ### Table of contents
-1. Download the repo git clone https://github.com/Jenerico/Testprjct.git
-2. Change the directory cd Testprjct
-3. Enter docker-compose up -d
-Open your browser and visit http://localhost:5000/ to see Hello World
+1. Download the repo `git clone https://github.com/Jenerico/Testprjct.git`
+2. Change the directory `cd Testprjct`
+3. Enter `docker-compose up -d`
+4. Open your browser and visit http://localhost:5000/ to see Hello World
 
 http://localhost:5000/health to see status OK
 
